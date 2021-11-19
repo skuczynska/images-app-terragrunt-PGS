@@ -1,0 +1,14 @@
+# Terragrunt
+.terragrunt-cache
+/non-prod/account.hcl
+
+# IntelliJ
+.idea_modules
+*.iml
+*.iws
+*.ipr
+.idea/
+build/
+*/build/
+out/
+
